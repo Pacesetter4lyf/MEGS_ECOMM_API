@@ -1,7 +1,7 @@
 ### This is a simple repo for the backend ecomm with user registration and authentication, items storage and contacts saving and retrivaling
 
 
-
+hosting tutorial [here](https://appdividend.com/2022/03/01/how-to-deploy-laravel-project-on-heroku/)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
